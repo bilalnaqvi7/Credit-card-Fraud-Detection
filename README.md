@@ -41,5 +41,4 @@ Credit card fraud leads to direct financial loss, customer trust damage, and ope
 - Presentation Deck: `docs/Credit_Card_Fraud_Detection_Syed_Mohammad_Bilal_Raj_Vala.pptx`
 - 5Ws + How Framework: `analysis/5Ws_How.xlsx`
 - Cost-Benefit Analysis: `analysis/Cost_Benefit_Analysis.xlsx`
-- Walkthrough Video: `media/Credit_Card_Fraud_Detection_Video.mp4`
 
